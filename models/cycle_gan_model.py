@@ -4,6 +4,7 @@ from util.image_pool import ImagePool
 from .base_model import BaseModel
 from . import networks
 #my comment
+#comment2
 import numpy as np
         
 cuda0 = torch.device('cuda:0')
